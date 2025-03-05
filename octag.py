@@ -1,5 +1,5 @@
 
-from math import sqrt, pi
+from math import sqrt, pi, sin, cos
 import matplotlib.pyplot as plt
 
 
